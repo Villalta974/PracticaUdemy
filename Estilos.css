@@ -1,0 +1,52 @@
+h1 {
+ color: red;
+ text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+
+#content-form__div0 {
+    background-color: antiquewhite;
+}
+
+.content-form__div {
+    background-color: aqua;
+    height: 40vh;
+}
+
+
+.content-form__div-p {
+    text-align: center;
+}
+
+.editar {
+    background-color: rgba(211, 215, 215, 0.98);
+    position: relative;
+    left: 42em;
+    border-radius: 5px;
+    border: 2px solid rgb(41, 38, 38);
+}
+
+.editar1 {
+    position: relative;
+    background-color: rgba(211, 215, 215, 0.98);
+    top: 2em;
+    left: 42em;
+    border-radius: 5px;
+    border: 2px solid rgb(41, 38, 38);
+}
+
+#id-elements {
+    border-radius: 4px;
+    position: relative;
+    left: 45em;
+    top: 4em;
+}
+
+
+
+
+
